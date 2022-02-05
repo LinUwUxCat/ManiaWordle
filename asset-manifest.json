@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ManiaWordle/static/css/main.af52b09f.css",
-    "main.js": "/ManiaWordle/static/js/main.f07bb089.js",
+    "main.css": "/ManiaWordle/static/css/main.459434aa.css",
+    "main.js": "/ManiaWordle/static/js/main.cc9535a6.js",
     "static/js/787.3500bfec.chunk.js": "/ManiaWordle/static/js/787.3500bfec.chunk.js",
     "static/media/BCSans-Bold.woff": "/ManiaWordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/ManiaWordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
     "static/media/BCSans-Italic.woff": "/ManiaWordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
     "static/media/BCSans-Regular.woff": "/ManiaWordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
     "index.html": "/ManiaWordle/index.html",
-    "main.af52b09f.css.map": "/ManiaWordle/static/css/main.af52b09f.css.map",
-    "main.f07bb089.js.map": "/ManiaWordle/static/js/main.f07bb089.js.map",
+    "main.459434aa.css.map": "/ManiaWordle/static/css/main.459434aa.css.map",
+    "main.cc9535a6.js.map": "/ManiaWordle/static/js/main.cc9535a6.js.map",
     "787.3500bfec.chunk.js.map": "/ManiaWordle/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af52b09f.css",
-    "static/js/main.f07bb089.js"
+    "static/css/main.459434aa.css",
+    "static/js/main.cc9535a6.js"
   ]
 }
