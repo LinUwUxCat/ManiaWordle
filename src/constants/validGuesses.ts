@@ -83,7 +83,7 @@ export const VALIDGUESSES = [
 "board",
 "holds",
 "flags",
-"admin"
+"admin",
 ]
 
 if (CONFIG.normalization) {
