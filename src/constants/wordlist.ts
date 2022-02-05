@@ -84,6 +84,9 @@ export const WORDS = [
   "skids",
   "shoot",
   "sport",
+  "jumps",
+  "sight",
+  "clubs"
 ]
 
 if (CONFIG.normalization) {
