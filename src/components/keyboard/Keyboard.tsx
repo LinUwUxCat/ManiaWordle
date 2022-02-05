@@ -34,7 +34,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
       // Take away key event listener for now
       else {
         const key = e.key.toLowerCase()
-        if (key.length === 1 && key >= 'A' && key <= 'Z') {
+        if (key.length === 1 && key >= 'a' && key <= 'z') {
           onChar(key)
         }
       }
