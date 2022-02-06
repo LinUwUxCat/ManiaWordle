@@ -10613,6 +10613,8 @@ export const VALIDGUESSES = [
 "spivs",
 "punty",
 "apiol",
+"brute",
+"force",
 "bancs",
 "unlay",
 "gymps",
