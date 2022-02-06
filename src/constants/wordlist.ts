@@ -104,6 +104,7 @@ export const WORDS = [
   "riolu",
   "block",
   "tmglo",
+  "drive",
   "steer",
   "loser",
   "boost",

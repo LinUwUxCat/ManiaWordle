@@ -87,6 +87,7 @@ export const VALIDGUESSES = [
 "jumps",
 "sight",
 "clubs",
+"drive",
 //normal
 "baurs",
 "blest",
