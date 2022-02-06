@@ -10746,6 +10746,8 @@ export const VALIDGUESSES = [
 "fuddy",
 "busti",
 "praus",
+"cloud",
+"brick"
 ]
 
 if (CONFIG.normalization) {
