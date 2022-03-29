@@ -123,6 +123,8 @@ export const WORDS = [
   "point",
   "items",
   "poles",
+  "timmy",
+  "mufat"
 ]
 
 if (CONFIG.normalization) {

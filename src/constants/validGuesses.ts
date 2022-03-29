@@ -88,6 +88,8 @@ export const VALIDGUESSES = [
 "sight",
 "clubs",
 "drive",
+"timmy",
+"mufat",
 //normal
 "baurs",
 "blest",
