@@ -124,7 +124,14 @@ export const WORDS = [
   "items",
   "poles",
   "timmy",
-  "mufat"
+  "mufat",
+  "winke",
+  "tmone",
+  "lagon",
+  "award",
+  "royal",
+  "donut",
+  "accel"
 ]
 
 if (CONFIG.normalization) {
